@@ -11,6 +11,9 @@ I am an **MCA student from India** with hands-on experience in **Data Analysis, 
 Actively seeking **internship & entry-level roles** in **AI/ML & Data Science**.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/11mustafa/11mustafa/main/assets/developer.png" width="450"/>
+</p>
 
 ## 🧑‍💻 Professional Summary
 - Strong foundation in **Machine Learning & Data Science**
