@@ -29,7 +29,7 @@ Actively seeking **internship & entry-level roles** in **AI/ML & Data Science**.
 - Python, C++
 
 **Libraries & Frameworks:**  
-- NumPy, Pandas, Matplotlib  
+- NumPy, Pandas, Matplotlib ,scikit-learn ,TensorFlow ,PyTorch
 
 **Data & BI Tools:**  
 - Power BI, Excel, Tableau  
