@@ -61,7 +61,7 @@ Actively seeking **internship & entry-level roles** in **AI/ML & Data Science**.
 
 ## 💼 Work Experience
 
-### 🏢 Data Analysis Intern — **Leosias Technologies** | Aug 2024
+### 🏢 Data Analysis Intern — **Leosias Technologies** | Aug 2024 Feb 2025
 - Increased data accuracy by **30%** using validation techniques  
 - Improved reporting accuracy by **20%** with ETL pipelines  
 - Designed & maintained **Power BI dashboards**
