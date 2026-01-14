@@ -94,12 +94,6 @@ Actively seeking **internship & entry-level roles** in **AI/ML & Data Science**.
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=11mustafa&theme=default)
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=11mustafa&show_icons=true&theme=default)
 
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11mustafa&layout=compact)
-
----
 
 ⭐ *Open to internships, projects, and learning opportunities.*
